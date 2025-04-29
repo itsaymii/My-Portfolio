@@ -140,7 +140,6 @@ const Home = () => {
             margin: 0;
           }
 
-          /* Responsive Design */
           @media (max-width: 1024px) {
             .name {
               font-size: 120px;
