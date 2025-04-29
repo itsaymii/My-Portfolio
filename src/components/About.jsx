@@ -116,7 +116,6 @@ const About = () => {
             margin-top: -10px;
           }
 
-          /* Responsive Design */
           @media (max-width: 1024px) {
             .about-me {
               height: 650px;
